@@ -1,8 +1,8 @@
 ---
-layout: about
-title: about
+layout: About
+title: About
 permalink: /
-subtitle: <a href='#'>Affiliations</a>. Address. Contacts. Moto. Etc.
+subtitle: <strong>Email</strong>: qiuixin807521@163.com
 
 profile:
   align: right
