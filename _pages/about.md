@@ -1,8 +1,8 @@
 ---
 layout: about
-title: About
+title: about
 permalink: /
-subtitle: <strong>Email</strong>: qiuixin807521@163.com
+subtitle: <strong>Email</strong>:qiuixin807521@163.com
 
 profile:
   align: right
