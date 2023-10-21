@@ -1,8 +1,8 @@
 ---
 layout: post
-date: 2016-01-15 07:59:00-0400
+date: 2022-08-17 12:00:00-0800
 inline: true
 related_posts: false
 ---
 
-A simple inline announcement with Markdown emoji! :sparkles: :smile:
+Our work A Stroop-based Long-term Cognitive Training Game for the Elderly in Head-mounted Displays is accepted by ISMAR 2022 as a poster.
