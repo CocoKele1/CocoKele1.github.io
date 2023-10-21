@@ -1,8 +1,8 @@
 ---
 layout: post
-date: 2020-07-01 12:00:00-0800
+date: 2022-08-17 12:00:00-0800
 inline: true
 related_posts: false
 ---
 
-I was admitted to BIT's VR Lab, starting my trip into VR.
+Our work A Stroop-based Long-term Cognitive Training Game for the Elderly in Head-mounted Displays is accepted by ISMAR 2022 as a poster.
