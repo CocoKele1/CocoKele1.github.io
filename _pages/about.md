@@ -10,9 +10,9 @@ profile:
   image_circular: true # crops the image to make it circular
 
 news: true  # includes a list of news items
-latest_posts: true  # includes a list of the newest posts
+latest_posts: false  # includes a list of the newest posts
 selected_papers: true # includes a list of papers marked as "selected={true}"
-social: true  # includes social icons at the bottom of the page
+social: false  # includes social icons at the bottom of the page
 ---
 
 I am a Master research student in the VR Lab at Beijing Institute of Technology (BIT), advised by Prof. Dongdong Weng, majoring in Virtual Reality and Human-Computer Interaction. Meanwhile, I am a visiting student at the Institute of Human-Computer Interaction and Media Integration at Tsinghua University, supervised by Prof. Yu Chun. My current interest is how AI-powered VR can better improve human-computer interaction, especially in human cognition and mental health. Prior to master, I obtained Bachelor of Engineering in Computer Science and technology at Zhengzhou University in 2021.
