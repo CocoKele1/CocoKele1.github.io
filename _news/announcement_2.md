@@ -5,4 +5,4 @@ inline: true
 related_posts: false
 ---
 
-Our work A Stroop-based Long-term Cognitive Training Game for the Elderly in Head-mounted Displays is accepted by ISMAR 2022 as a poster.
+Our work "A Stroop-based Long-term Cognitive Training Game for the Elderly in Head-mounted Displays" was accepted by ISMAR 2022 as a poster.
