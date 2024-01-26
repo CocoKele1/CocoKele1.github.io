@@ -5,4 +5,4 @@ inline: true
 related_posts: false
 ---
 
-My work "AI as a Bridge Across Ages: Exploring The Opportunities of Artificial Intelligence in Supporting Inter-Generational Communication in Virtual Reality" submitted to CSCW 2024.
+Our work "AI as a Bridge Across Ages: Exploring The Opportunities of Artificial Intelligence in Supporting Inter-Generational Communication in Virtual Reality" submitted to CSCW 2024.
