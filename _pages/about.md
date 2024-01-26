@@ -2,7 +2,7 @@
 layout: about
 title: About
 permalink: /
-subtitle: <strong>Email</strong>:&nbsp;qiuixindu@bit.edu.cn
+subtitle: <strong>Email</strong>:&nbsp;qiuxin807521@gmail.com
 
 profile:
   align: right
@@ -19,4 +19,4 @@ I am a Master research student in the VR Lab at <a href="https://www.bit.edu.cn/
 
 I attended the HCIX Research Club and became a Research Assistant at the <a href="" target="_blank">APEX Lab of HKUST</a> led by <a href="" target="_blank">Prof. Mingming Fan</a>, independently supporting an HCI project. Before this, I was an intern in Light Illusions supervised by <a href="" target="_blank">Prof. Ping Tan</a> from June to August.
 
-My current interest is how AI-powered VR can better improve human-computer interaction, especially in Human-AI Collaboration. 
+My current interest is how AI-powered VR can better improve human-computer interaction, especially in <strong>Human-AI Collaboration</strong>. 
