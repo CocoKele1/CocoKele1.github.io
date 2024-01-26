@@ -7,3 +7,4 @@ related_posts: false
 
 
 My work "LightSword: A Customized Virtual Reality Exergame for Long-Term Cognitive Inhibition Training in Older Adults" was accepted by CHI 2024.
+
